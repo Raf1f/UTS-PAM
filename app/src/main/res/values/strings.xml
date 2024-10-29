@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTSproject_rafif</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login">Login</string>
+    <string name="headline">RAFINE!!</string>
+    <string name="food_list_title">Menu yang Tersedia di RAFINE!!</string>
+</resources>
